@@ -4,7 +4,7 @@
 - **스터디 주제** : [RealMySQL 1권](https://www.yes24.com/product/goods/103415627) 완독 (1,2,3,7 장 제외)
 - **목표: MySQL 전문가 되기**
 
-- 스터디 회고: https://docs.google.com/presentation/d/1Vh8u416yPE6OQMpMbvALtR4T45bD_PUewHY9Xmt74kk/edit?usp=drive_link
+- 스터디 회고: [링크](https://docs.google.com/presentation/d/1Vh8u416yPE6OQMpMbvALtR4T45bD_PUewHY9Xmt74kk/edit?usp=drive_link)
 
 ## *🐦‍🔥* 스터디원
 - 유기훈 (리더)
